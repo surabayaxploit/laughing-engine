@@ -1,5 +1,2 @@
-# Wordlist Wordpres Indonesian
-Assallamualaikum Disini Saya Akan Membagikan Wordlist Wordpres Buatan Team Kami Semoga Bisa Di Pakai haha
-terimah kasih yang sudah telah membuat wordlist ini dan teman" surabayaxploit 
+Assallamualaikum Wordlist wordpres ini di buat Oleg BacotanBlackhat Selaku dari member surabayaxploit jika anda ingin mencoba untuk melakukan brute Force pada wordlist web wordpress pakai wordlist ini aja nanti saya akan buat Lagi kok 
 
-Thanks : Javanesec - TukangSemen/. - Throne404/. - Mr.8c - Ardias - Rysnanto - Ikky - Cosmix - Lezhin - Luftfi
